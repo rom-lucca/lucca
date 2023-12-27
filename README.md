@@ -1,4 +1,4 @@
-> ## Olá, tudo bem ? Meu nome é Lucca Romano, tenho 19 anos.
+> ## Olá, meu nome é Lucca Romano e eu tenho 19 anos.
 > 
 > 🖥️ FullStack Developer pela V2Saude. <br>
 > 🌎 Brazil, Mogi das Cruzes.
@@ -14,9 +14,11 @@
 >   
 > 
 > ## <h3> BackEnd e FrameWorks</h3>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="5%"/> 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="5%" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="5%"/>         
+> 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+> <i class="devicon-php-plain colored"></i>
 >  
 > ## <h3> Banco de Dados </h3>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="5%"/>
