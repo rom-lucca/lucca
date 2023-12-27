@@ -1,6 +1,6 @@
 > ## Olá, meu nome é Lucca Romano e eu tenho 19 anos.
 > 
-> 🖥️ FullStack Developer pela V2Saude. <br>
+> 🖥️ Fornt e BackEnd + Design. <br>
 > 🌎 Brazil, Mogi das Cruzes.
 > 
 > ## 💻 Minha Especialidade
@@ -26,9 +26,9 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="5%"/>        
 > </div>  
 > 
-> ## <H3> Produção </H3>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="5%"/>
-> (<b>Estudando</b>) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>
+> ## <H3> Design </H3>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="5%"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="5%"/>
 >                   
 > 
 > ## 📜 Conquistas Acadêmicas
