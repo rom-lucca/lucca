@@ -3,7 +3,7 @@
 > 🖥️ RPA e desenvolvimento Python. <br>
 > 🌎 Brazil, Mogi das Cruzes.
 > 
-> ## 💻 Minha Especialidade
+> ## 💻 Minhas Especialidades
 > <div style="display: inline-block"><br>
 > 
 > <h3> FrontEnd e FrameWorks </h3>         
@@ -26,9 +26,6 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="5%"/>        
 > </div>  
 > 
-> ## <H3> Design </H3>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="5%"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="5%"/>
 >                   
 > 
 > ## 📜 Conquistas Acadêmicas
