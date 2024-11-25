@@ -1,6 +1,6 @@
-> ## Olá, meu nome é Lucca Romano e eu tenho 19 anos.
+> ## Olá, meu nome é Lucca Romano!
 > 
-> 🖥️ Fornt e BackEnd + Design. <br>
+> 🖥️ RPA e desenvolvimento Python. <br>
 > 🌎 Brazil, Mogi das Cruzes.
 > 
 > ## 💻 Minha Especialidade
